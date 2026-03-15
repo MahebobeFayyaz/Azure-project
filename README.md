@@ -1,4 +1,4 @@
-# NYC Taxi Data End-to-End Data Engineering Pipeline (Azure)
+# NYC Taxi Data End-to-End Azure Pipeline 
 An end-to-end pipeline for processing NYC Taxi trip data using Microsoft Azure services.
 
 # Project Overview
