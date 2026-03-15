@@ -38,7 +38,7 @@ Directories:
 * green_taxi_trip_data → monthly parquet files
 
 ### Silver Layer
-Stores cleaned and transformed datasets in **Delta format**.
+Stores cleaned and transformed datasets in **Parquet format**.
 
 ### Gold Layer
 Stores curated datasets and Delta tables optimized for analytics and reporting.
